@@ -1,0 +1,17 @@
+.underline{
+    text-decoration: underline;
+}
+.background{
+    background-color: rgb(124, 124, 240);
+}
+.narrow{
+    font-stretch: ultra-condensed;
+}
+.img{
+    opacity: 1;
+}
+
+p{
+    font: calibri;
+    color: aliceblue;
+}
