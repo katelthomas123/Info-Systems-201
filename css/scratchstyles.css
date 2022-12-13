@@ -2,7 +2,7 @@
     text-decoration: underline;
 }
 .background{
-    background-color: rgb(124, 124, 240);
+    background-color: rgb(190, 190, 242);
 }
 .narrow{
     font-stretch: ultra-condensed;
@@ -13,5 +13,5 @@
 
 p{
     font: calibri;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
